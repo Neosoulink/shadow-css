@@ -1,3 +1,5 @@
-# Work_Shadow
-### Une bibliotheque css 
-Fais sur un coup de tête, c’est juste une petite biblio css qui m'a servie pendant un temps...
+# WorkShadow
+
+### Une bibliotheque css
+
+I made it on a whim, it's just a little css library that served me for a bit times...
