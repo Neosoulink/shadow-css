@@ -1,5 +1,5 @@
 # WorkShadow
 
-### Une bibliotheque css
+## 🤔 What's it ?
 
-I made it on a whim, it's just a little css library that served me for a bit times...
+I made it on a whim, it's just a little css library that served me for a few times...
